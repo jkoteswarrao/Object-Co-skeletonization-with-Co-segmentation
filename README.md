@@ -1,5 +1,5 @@
 # Object-Co-skeletonization-with-Co-segmentation
-This repository provides the dataset and codes used in "Object Co-skeletonization with Co-segmentation" paper published in CVPR'17
+This repository provides the CO-SKEL dataset and codes used in "Object Co-skeletonization with Co-segmentation" paper published in CVPR'17
 
 
 If you find the code useful, kindly cite the following papers:

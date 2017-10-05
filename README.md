@@ -2,7 +2,7 @@
 This repository provides the CO-SKEL dataset and codes used in "Object Co-skeletonization with Co-segmentation" paper published in CVPR'17
 
 
-If you find the code useful, kindly cite the following papers:
+If you find the dataset or code useful, kindly cite the following papers:
 
 [1] K. R. Jerripothula, J. Cai, J. Lu and J. Yuan, "Object Co-skeletonization with Co-segmentation", IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Honolulu, USA, 2017, pp. 6205-6213.
 

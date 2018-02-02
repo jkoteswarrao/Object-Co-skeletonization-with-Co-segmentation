@@ -10,6 +10,7 @@ If you find the dataset or code useful, kindly cite the following papers:
 
 [3] K. R. Jerripothula, J. Cai, F. Meng and J. Yuan, "Automatic image co-segmentation using geometric mean saliency" 2014 IEEE International Conference on Image Processing (ICIP), Paris, 2014, pp. 3277-3281.
 
+NOTE: Unzip the downloded folder in the root folder (or it's immediate one) of any drive. This is to ensure that absolute path of "coskel_protected_v2" is as short as possible.  
 
 For any quaries, please contact Dr. Koteswar Rao Jerripothula at 
 krjimp@geu.ac.in
